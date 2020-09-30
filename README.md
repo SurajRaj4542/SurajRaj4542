@@ -11,3 +11,5 @@ Plz .. don't kill me for my code style 😶
  1. CELLULOID - A Telegram Group Management Bot just for personal use 
 
 # Hello
+
+![Suraj's Github stats](https://github-readme-stats.vercel.app/api?username=SurajRaj4542&show_icons=true&theme=tokyonight)
