@@ -9,6 +9,7 @@ Plz .. don't kill me for my code style 😶
 # MY PROJECT TITLES
  
  1. CELLULOID - A Telegram Group Management Bot just for personal use 
+ 2. GENSTRINGSESSION - A script for generating PYROGrAm & TELETHON based string session 
 
 # Hello
 
