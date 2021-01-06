@@ -1,9 +1,10 @@
-# HEYA! IT'S ME [THEGREATSURAJ](https://t.me/thegreatsuraj) on [GITHUB](https://github.com)
+# HEYA! IT'S ME [SURAJ](https://t.me/thegreatsuraj) on [GITHUB](https://github.com)
 
 This is my README, i post...my new project titles 
 
-MY NAME:- SURAJ
+Things I like :- Anime, Musics, Learning.., Space-STUFF 
 
+Contact :- [Telegram](https://t.me/am_suraj), [Anilist](https://anilist.co/user/thegreatsuraj)
 
 # MY PROJECT TITLES
  
