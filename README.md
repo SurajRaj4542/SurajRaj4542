@@ -1,16 +1,16 @@
-# HEYA! IT'S ME [SURAJ](https://t.me/thegreatsuraj) on [GITHUB](https://github.com)
+# HEYA! IT'S ME [SURAJ](https://t.me/thegreatsuraj) 
 
-This is my README, i post...my new project titles 
+This is my README, I post...my new project titles 
 
-Things I like :- Anime, Musics, Learning.., Space-STUFF 
+Things I like :- Anime, Music, Learning....
 
-Contact :- [Telegram](https://t.me/am_suraj), [Anilist](https://anilist.co/user/thegreatsuraj)
+Contact me through [Telegram](https://t.me/am_suraj), [Anilist](https://anilist.co/user/thegreatsuraj), [Gmail](surajraj12444@gmail.com)
 
 # MY PROJECT TITLES
  
  1. CELLULOID - A Telegram Group Management Bot just for personal use 
  2. GENSTRINGSESSION - A script for generating PYROGRAM & TELETHON based string session [DEAD]
- 3. ERINA-NAKIRI - telegram Group Management Bot for [ANIMEWORLD](https://t.me/JOIN_ANIMEWORLD)
+ 3. ERINA-NAKIRI - Telegram Group Management Bot for [ANIMEWORLD](https://t.me/JOIN_ANIMEWORLD)
  4. THEME-PREVIEW - Send him any .attheme or .tdesktop-theme to create it's preview 
 
 # Hello
