@@ -2,7 +2,6 @@
 
 This is my README, I post...my new project titles 
 
-Things I like :- Anime, Music, Learning....
 
 Contact me through [Telegram](https://t.me/am_suraj), [Anilist](https://anilist.co/user/thegreatsuraj), [Gmail](surajraj12444@gmail.com)
 
