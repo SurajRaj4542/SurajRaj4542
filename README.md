@@ -3,7 +3,10 @@
 This is my README, I post...my new project titles 
 
 
-Contact me through [Telegram](https://t.me/am_suraj), [Gmail](surajraj12444@gmail.com)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Am_Suraj)
+[![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/thegreatsuraj/)
+<a href="mailto:surajraj12444@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
+<a href="https://twitter.com/thegreatsuraj1"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a>
 
 # MY PROJECT TITLES
  
