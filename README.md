@@ -5,7 +5,7 @@ This is my README, I post...my new project titles
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Am_Suraj)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/thegreatsuraj/)
-<a href="surajraj12444@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:surajraj12444@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
 <a href="https://twitter.com/thegreatsuraj1"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a>
 
 # MY PROJECT TITLES
@@ -23,6 +23,8 @@ This is my README, I post...my new project titles
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+###Hello
 
 ![Suraj's Github stats](https://github-readme-stats.vercel.app/api?username=SurajRaj4542&show_icons=true&theme=midnight-purple)
 
