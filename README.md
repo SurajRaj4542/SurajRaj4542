@@ -11,7 +11,7 @@ Yo, Sup! It's me <b><a target="_blank" href="https://t.me/Thegreatsuraj">Suraj <
 
  
  
-## My Project Title
+## Projects
  
 Soon™ Update
 
@@ -27,7 +27,7 @@ Soon™ Update
 <br/>
 
 
-### Ahem
+### About me
 ![Suraj's Github stats](https://github-readme-stats.vercel.app/api?username=SurajRaj4542&show_icons=true&theme=midnight-purple)
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
