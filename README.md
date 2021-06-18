@@ -8,12 +8,12 @@ Yo, Sup! It's me <b><a target="_blank" href="https://t.me/Thegreatsuraj">Suraj <
 <a href="https://twitter.com/thegreatsuraj1"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a>
 <a href="https://dev.to/surajraj4542" target="_blank"><img alt="Code" height="30" src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white"></a>
 
-### My Project Title
+## My Project Title
  
 Soon™ Update
 
 
-### Languages and Tools
+## Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
