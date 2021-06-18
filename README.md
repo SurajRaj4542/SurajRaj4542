@@ -1,4 +1,6 @@
-<h3 align="center"> Yo, Sup! It's me [Suraj](https://t.me/thegreatsuraj) 
+<h3 align="center">
+ <samp>&gt; Yo, Sup! It's me
+        <b><a target="_blank" href="https://t.me/Thegreatsuraj">Suraj </a></b></samp>
 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Am_Suraj)
