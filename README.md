@@ -1,10 +1,13 @@
-# HEYA! It's me [SURAJ](https://t.me/thegreatsuraj) 
+# HEYA! It's me [Suraj](https://t.me/thegreatsuraj) 
 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Am_Suraj)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/thegreatsuraj/)
 <a href="mailto:surajraj12444@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
 <a href="https://twitter.com/thegreatsuraj1"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a>
+<a href="https://dev.to/surajraj4542">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="ほうたろう オレキ's DEV Community Profile" height="30" width="30">
+</a>
 
 # MY PROJECT TITLES
  
