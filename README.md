@@ -1,4 +1,4 @@
-# HEYA! It's me [Suraj](https://t.me/thegreatsuraj) 
+<h3 align="center"> Yo, Sup! It's me [Suraj](https://t.me/thegreatsuraj) 
 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Am_Suraj)
@@ -7,7 +7,7 @@
 <a href="https://twitter.com/thegreatsuraj1"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a>
 <a href="https://dev.to/surajraj4542" target="_blank"><img alt="Code" height="30" src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white"></a>
 
-# MY PROJECT TITLES
+# My Project Title
  
 Soon™ Update
 
