@@ -1,5 +1,5 @@
 <h3 align="center">
- <samp>Yo, Sup! It's me<b><a target="_blank" href="https://t.me/Thegreatsuraj">Suraj </a></b></samp>
+ <samp>Yo, Sup! It's me <b><a target="_blank" href="https://t.me/Thegreatsuraj">Suraj </a></b></samp>
 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Am_Suraj)
@@ -8,12 +8,12 @@
 <a href="https://twitter.com/thegreatsuraj1"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a>
 <a href="https://dev.to/surajraj4542" target="_blank"><img alt="Code" height="30" src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white"></a>
 
-# My Project Title
+### My Project Title
  
 Soon™ Update
 
 
-# Languages and Tools
+### Languages and Tools
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -24,8 +24,7 @@ Soon™ Update
 <br/>
 
 
-# Hello
-
+### Ahem
 ![Suraj's Github stats](https://github-readme-stats.vercel.app/api?username=SurajRaj4542&show_icons=true&theme=midnight-purple)
 
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
