@@ -5,7 +5,7 @@ Yo, Sup! It's me <b><a target="_blank" href="https://t.me/Thegreatsuraj">Suraj <
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Hello_Suraj)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/thegreatsuraj/)
-<a href="mailto:surajraj12444@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:isthissuraj@proton.me"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
 <a href="https://twitter.com/thegreatsuraj1"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a>
 <a href="https://dev.to/surajraj4542" target="_blank"><img alt="Code" height="30" src="https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=dev.to&logoColor=white"></a>
 
